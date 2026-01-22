@@ -20,11 +20,7 @@
 
 * Cisco CyberOps Associate
 * API Security Fundamentals — APIsec University
-
-📈 **GitHub Stats:**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-helal\&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullah-helal\&show_icons=true\&count_private=true)
-
+  
 📫 **Contact Me:**
 
 * [LinkedIn](https://linkedin.com/in/abdullah-helal-49a00a1a7)
