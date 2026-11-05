@@ -66,8 +66,8 @@ Includes GPS device tracking through background queues, maintenance and custody,
 
 ### 🍽️ [Restaurant POS](https://github.com/anter0101/restaurant-pos)
 Backend for a multi-branch restaurant point-of-sale system: menu categories and items, orders, customers and delivery regions, cashier shift management, and sales statistics.
-JWT auth with role-based access, TypeORM migrations and seeders, and Swagger docs.
-<br/>`NestJS` `TypeORM` `PostgreSQL` `JWT` `Swagger`
+Server-side total validation with transactional, row-locked order creation; JWT auth with role-based access; TypeORM migrations, seeders, unit and e2e tests.
+<br/>`NestJS` `TypeORM` `PostgreSQL` `JWT` `Jest` `Docker`
 
 ## 🚀 Professional Projects
 
