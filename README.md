@@ -51,7 +51,7 @@ Experienced in cloud-native systems, multi-tenant architectures, and secure ente
 - Set up **CI/CD with GitHub Actions**, making deployments **60% faster**
 - Ran security reviews and fixed **OWASP Top 10** vulnerabilities across the stack
 
-## 📦 Featured Repositories
+## 🚀 Selected Projects
 
 ### 🧾 [ZATCA Gateway](https://github.com/anter0101/zatca-gateway-public)
 Multi-tenant SaaS gateway between ERP/POS vendors and ZATCA's **Fatoora** e-invoicing platform (Saudi Arabia).
@@ -69,7 +69,7 @@ Backend for a multi-branch restaurant point-of-sale system: menu categories and 
 Server-side total validation with transactional, row-locked order creation; JWT auth with role-based access; TypeORM migrations, seeders, unit and e2e tests.
 <br/>`NestJS` `TypeORM` `PostgreSQL` `JWT` `Jest` `Docker`
 
-## 🚀 Professional Projects
+### 💼 More Projects (client work, private)
 
 | Project | Description |
 |---|---|
