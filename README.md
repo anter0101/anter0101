@@ -70,8 +70,3 @@ Experienced in cloud-native systems, multi-tenant architectures, and secure ente
 
 **BSc in Computer Science** — El-Shorouk Academy, Cairo · *2019 – 2023*
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anter0101&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="160"/>
-</p>
