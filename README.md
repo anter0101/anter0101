@@ -51,7 +51,25 @@ Experienced in cloud-native systems, multi-tenant architectures, and secure ente
 - Set up **CI/CD with GitHub Actions**, making deployments **60% faster**
 - Ran security reviews and fixed **OWASP Top 10** vulnerabilities across the stack
 
-## 🚀 Selected Projects
+## 📦 Featured Repositories
+
+### 🧾 [ZATCA Gateway](https://github.com/anter0101/zatca-gateway-public)
+Multi-tenant SaaS gateway between ERP/POS vendors and ZATCA's **Fatoora** e-invoicing platform (Saudi Arabia).
+Handles taxpayer onboarding (key pair, CSR, compliance → production CSID), signs and validates UBL XML invoices, and clears (B2B) or reports (B2C) them — vendors just send JSON.
+Scoped API keys per vendor and taxpayer, with sandbox / simulation / live environments.
+<br/>`NestJS` `Next.js` `PostgreSQL` `Java Fatoora SDK sidecar` `Docker` `Nginx`
+
+### 🚛 [Red Sea — Transport & Logistics ERP](https://github.com/anter0101/red-sea)
+Full-stack platform for a trucking company: journeys (trips), drivers, cars and trailers, clients, branches, warehouses, and suppliers.
+Includes GPS device tracking through background queues, maintenance and custody, invoicing with a full accounting module, and KPI dashboards with Excel export.
+<br/>`NestJS` `TypeORM` `PostgreSQL` `BullMQ` `Next.js` `React Query` `Tailwind` `Docker`
+
+### 🍽️ [Restaurant POS](https://github.com/anter0101/restaurant-pos)
+Backend for a multi-branch restaurant point-of-sale system: menu categories and items, orders, customers and delivery regions, cashier shift management, and sales statistics.
+JWT auth with role-based access, TypeORM migrations and seeders, and Swagger docs.
+<br/>`NestJS` `TypeORM` `PostgreSQL` `JWT` `Swagger`
+
+## 🚀 Professional Projects
 
 | Project | Description |
 |---|---|
